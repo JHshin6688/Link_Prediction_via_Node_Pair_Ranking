@@ -9,8 +9,7 @@ For this project, we utilized the Cora dataset. Cora dataset consists of a citat
 2. 'GAT_link_pred.ipynb' is the code for two baseline models.
    - 'GAT' is a static graph attention network.
    - 'GATv2' is a dynamic graph attention network.
-4. We used the basic T4 GPU in Colab.
-5. For our project, we have studied and referenced two papers.
-	-<Matrix Factorization> (2009)
-	-<BPR: Bayesian Personalized Ranking from Implicit Feedback> (2012)
-6. I worked with two colleagues at KAIST for this project (Hyeonseop Jung and Seokwon Han)
+3. We used the basic T4 GPU in Colab.
+4. For our project, we have studied and referenced two papers.
+   - <BPR: Bayesian Personalized Ranking from Implicit Feedback> (2012) https://arxiv.org/abs/1205.2618
+5. I worked with two colleagues at KAIST for this project (Hyeonseop Jung and Seokwon Han)
