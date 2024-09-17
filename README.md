@@ -1,4 +1,4 @@
-# Graph_ML_link_prediction
+# Link_Prediction_via_Node_Pair_Ranking
 
 In this project, we built a graph embedding model that extracts precise node embeddings without using other node features.
 We used the idea that ‘Positive node pairs have a higher dot product between their embeddings compared to negative node pairs’
